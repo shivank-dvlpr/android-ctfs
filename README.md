@@ -27,3 +27,6 @@ https://github.com/OWASP/owasp-mastg/tree/master/Crackmes/Android/Level_01
 Uncrackable Level 2
 https://github.com/OWASP/owasp-mastg/tree/master/Crackmes/Android/Level_02
 
+Uncrackable Level 3
+https://github.com/OWASP/owasp-mastg/tree/master/Crackmes/Android/Level_03
+
