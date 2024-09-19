@@ -21,4 +21,9 @@ https://github.com/payatu/diva-android
 OVAA - Oversecured Vulerable Android App
 https://github.com/oversecured/ovaa
 
+Uncrackable Level 1
+https://github.com/OWASP/owasp-mastg/tree/master/Crackmes/Android/Level_01
+
+Uncrackable Level 2
+https://github.com/OWASP/owasp-mastg/tree/master/Crackmes/Android/Level_02
 
